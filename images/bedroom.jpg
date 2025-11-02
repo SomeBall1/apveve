@@ -1,0 +1,9 @@
+<svg width="800" height="600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#e8eaf6"/>
+  <rect x="200" y="250" width="400" height="200" fill="#5c6bc0" rx="5"/>
+  <rect x="220" y="270" width="360" height="40" fill="#3f51b5"/>
+  <rect x="250" y="320" width="300" height="100" fill="#7986cb"/>
+  <rect x="150" y="200" width="80" height="150" fill="#9fa8da"/>
+  <rect x="570" y="200" width="80" height="150" fill="#9fa8da"/>
+  <text x="400" y="580" font-family="Arial" font-size="24" fill="#283593" text-anchor="middle">Bedroom</text>
+</svg>
